@@ -59,6 +59,11 @@ function WelcomeHome() {
       <LikeButton />
       <Welcome name="Amine" />
       <LikeButton />
+      <Welcome name="Amffdfddine" />
+      <LikeButton />
+      <Welcome name="Afrom v1e" />
+      <LikeButton />
+      
     </div></>
   );
 }
