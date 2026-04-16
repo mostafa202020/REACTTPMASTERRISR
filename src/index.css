@@ -1,0 +1,25 @@
+.navbar-photo {
+  width: 50px;          /* photo width */
+  height: 50px;         /* photo height */
+  border-radius: 50%;   /* make it circular */
+  object-fit: cover;    /* cover the frame */
+}
+/* Container aligns children in a row */
+.app-container {
+  display: flex;
+  align-items: center;
+  gap: 20px; /* space between components */
+}
+
+/* Navbar photo styling */
+
+
+/* Welcome text styling */
+.welcome-text {
+  margin: 0;
+  font-size: 1.5rem;
+}
+.div{
+  display:flex;
+  flex-direction: column;
+}
